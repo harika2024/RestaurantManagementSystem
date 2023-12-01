@@ -1,0 +1,37 @@
+.header .search-form {
+    position: absolute;
+    top: 10%;
+    right: 7%;
+    background: #fff;
+    width: 50rem;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    transform: scaleY(0);
+    border: 1px solid black;
+    /* transform-origin: top; */
+}
+
+.header .search-form.active {
+    transform: scaleY(1);
+}
+
+.header .search-form imput {
+    height: 100%;
+    width: 100%;
+    font-size: 6rem;
+    color: #fff;
+    padding: 1rem;
+    text-transform: none;
+}
+
+.header .search-form label {
+    cursor: pointer;
+    font-size: 2.2rem;
+    margin-right: 1.5rem;
+    color: #fff;
+}
+
+.header .search-form label {
+    color: #ffc107;
+}

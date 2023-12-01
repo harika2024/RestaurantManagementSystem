@@ -1,0 +1,22 @@
+.istagram {
+    font-size: medium;
+}
+
+.instagram:hover {
+    color: rgba(187, 58, 219, 0.696);
+}
+
+.twitter:hover {
+    color: rgb(95, 189, 244);
+}
+
+.youtube:hover {
+    color: rgb(231, 22, 22)
+}
+
+.Linklist__Item {
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    background-color: white;
+}

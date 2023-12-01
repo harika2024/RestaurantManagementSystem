@@ -1,0 +1,81 @@
+.policyContainer {
+    font-family: monospace;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    align-items: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.policyHeader {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: rgb(50, 49, 49);
+    font-style: normal;
+    font-weight: bold;
+}
+
+.policyBody {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.subDivHead {
+    margin-top: 70px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: rgb(91, 90, 90);
+    font-style: normal;
+    font-weight: bold;
+}
+
+.subDivBody {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* .customStyle button:hover {
+    color: red;
+    background-color: black;
+} */
+
+.customStyle button {
+    width: 200px;
+    background-color: white;
+
+}
+
+.policyContainer {
+    font-family: monospace;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    align-items: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.policyHeader {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: rgb(50, 49, 49);
+    font-style: normal;
+    font-weight: bold;
+}
+
+.policyBody {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.subDivBody {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-style: normal;
+    font-weight: normal;
+}
